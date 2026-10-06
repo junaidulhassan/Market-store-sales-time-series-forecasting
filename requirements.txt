@@ -1,0 +1,16 @@
+torch
+transformers
+accelerate
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+nbconvert
+ipykernel
+fastapi
+uvicorn[standard]
+python-multipart
+pyarrow
+tqdm

@@ -1,0 +1,55 @@
+store_nbr,city,state,store_type,avg_daily_sales,total_sales
+44,Quito,Pichincha,A,36781.73,6.208755e+07
+45,Quito,Pichincha,A,32285.55,5.4498012e+07
+47,Quito,Pichincha,A,30182.65,5.094831e+07
+3,Quito,Pichincha,D,29906.34,5.0481908e+07
+49,Quito,Pichincha,A,25722.81,4.34201e+07
+46,Quito,Pichincha,A,24819.94,4.1896064e+07
+48,Quito,Pichincha,A,21287.4,3.5933132e+07
+51,Guayaquil,Guayas,A,19497.33,3.291149e+07
+8,Quito,Pichincha,D,18065.34,3.0494284e+07
+50,Ambato,Tungurahua,A,16974.54,2.865302e+07
+11,Cayambe,Pichincha,B,16780.54,2.8325558e+07
+7,Quito,Pichincha,D,15966.86,2.6952052e+07
+9,Quito,Pichincha,B,15645.4,2.6409442e+07
+6,Quito,Pichincha,D,14919.24,2.518368e+07
+24,Guayaquil,Guayas,D,14080.41,2.3767732e+07
+2,Quito,Pichincha,D,12770.96,2.1557388e+07
+39,Cuenca,Azuay,B,11997.74,2.0252192e+07
+37,Cuenca,Azuay,D,11830.94,1.9970636e+07
+27,Daule,Guayas,D,11367.31,1.9188022e+07
+4,Quito,Pichincha,D,11202.43,1.89097e+07
+38,Loja,Loja,D,11172.98,1.886e+07
+40,Machala,El Oro,C,10897.96,1.8395758e+07
+28,Guayaquil,Guayas,E,10890.49,1.8383154e+07
+17,Quito,Pichincha,C,10681.86,1.803097e+07
+31,Babahoyo,Los Rios,B,10513.55,1.7746872e+07
+34,Guayaquil,Guayas,B,10124.84,1.7090734e+07
+43,Esmeraldas,Esmeraldas,E,9710.72,1.6391692e+07
+5,Santo Domingo,Santo Domingo de los Tsachilas,D,9237.21,1.5592404e+07
+36,Libertad,Guayas,E,9077.27,1.5322431e+07
+41,Machala,El Oro,D,8880.95,1.4991039e+07
+33,Quevedo,Los Rios,C,8399.59,1.4178501e+07
+1,Quito,Pichincha,D,8379.75,1.4145012e+07
+18,Quito,Pichincha,B,7855.08,1.3259377e+07
+19,Guaranda,Bolivar,C,7730.75,1.304951e+07
+20,Quito,Pichincha,B,7654.59,1.2920955e+07
+23,Ambato,Tungurahua,D,6902.48,1.165138e+07
+15,Ibarra,Imbabura,C,6783.93,1.145127e+07
+25,Salinas,Santa Elena,D,6765.99,1.1420998e+07
+14,Riobamba,Chimborazo,C,6746.4,1.1387919e+07
+53,Manta,Manabi,D,6644.65,1.1216166e+07
+54,El Carmen,Manabi,C,6550.64,1.1057484e+07
+16,Santo Domingo,Santo Domingo de los Tsachilas,C,6508.54,1.0986413e+07
+12,Latacunga,Cotopaxi,C,6314.7,1.0659218e+07
+13,Latacunga,Cotopaxi,C,6234.03,1.0523046e+07
+29,Guayaquil,Guayas,E,5761.35,9.725158e+06
+10,Quito,Pichincha,C,5695.44,9.613906e+06
+21,Santo Domingo,Santo Domingo de los Tsachilas,B,5483.12,9.255506e+06
+42,Cuenca,Azuay,D,5299.63,8.945768e+06
+26,Guayaquil,Guayas,D,4594.27,7.755122e+06
+35,Playas,Guayas,C,4547.8,7.6766795e+06
+30,Guayaquil,Guayas,C,4373.27,7.3820735e+06
+32,Guayaquil,Guayas,C,3525.95,5.951796e+06
+22,Puyo,Pastaza,C,2423.11,4.0902015e+06
+52,Manta,Manabi,A,1597.26,2.6961695e+06

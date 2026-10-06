@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data_raw/
+data_processed/
+backend_data/*.csv
+models/time_series_transformer/
+node_modules/
+frontend/dist/
+.env.local
+*.log
