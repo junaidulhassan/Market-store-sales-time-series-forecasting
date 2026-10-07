@@ -1,4 +1,4 @@
-# Store Sales Forecasting — Small Transformer Edition
+# Store Sales Forecasting  Small Transformer Edition
 
 An end-to-end demand-forecasting system built on the Favorita "Store Sales"
 retail dataset (54 stores, 2013–2017 daily sales). A compact HuggingFace
